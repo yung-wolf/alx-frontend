@@ -1047,7 +1047,7 @@
   }
 
   @media screen and (min-width: 768px) {
-    .header, .menu-icon {
+    .header .menu-icon {
       display: none;
     }    
   }
